@@ -1,0 +1,55 @@
+.title {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#first {
+    background-color: aqua;
+}
+
+#second {
+    background-color: blueviolet;
+}
+
+#third {
+    background-color: chocolate;
+}
+
+.image {
+    width: 200;
+    height: auto;
+}
+
+.Description {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.Ingredients {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: chartreuse;
+}
+
+.Steps {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+}
+
+p {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
